@@ -1,6 +1,6 @@
 ---
 title: F5 NGINX One Console
-description: The F5 NGINX One Console makes it easy to manage NGINX instances across locations and environments. The console lets you monitor and control your NGINX fleet from one place—you can check configurations, track performance metrics, identify security vulnerabilities, manage SSL certificates, and more.
+description: F5 NGINX One Console makes it easy to manage NGINX instances across locations and environments. NGINX One Console lets you monitor and control your NGINX fleet from one place—you can check configurations, track performance metrics, identify security vulnerabilities, manage SSL certificates, and more.
 url: /nginx-one/
 hasCustomContent: true
 cascade:
@@ -8,8 +8,8 @@ cascade:
 ---
 {{< card-layout >}}
   {{< card-section >}}
-    {{< card title="Manage your NGINX fleet" >}}
-      Simplify, scale, secure, and collaborate with your NGINX fleet 
+    {{< card title="Manage NGINX fleet" >}}
+      Simplify, scale, secure, and collaborate with NGINX fleet 
     {{</ card >}}
     {{< card title="Get started" >}}
       See benefits from the NGINX One Console
@@ -17,20 +17,20 @@ cascade:
     {{< card title="Connect your instances" >}}
       Work with data plane keys, containers, and proxy servers
     {{</ card >}}
-    {{< card title="Manage your NGINX instances" >}}
-      Monitor and maintain your deployments
+    {{< card title="Manage NGINX instances" >}}
+      Monitor and maintain deployments
     {{</ card >}}
     {{< card title="Draft new configurations" >}}
       Work with Staged Configurations
     {{</ card >}}
     {{< card title="Set up metrics" >}}
-      Review your deployments in a dashboard 
+      Review deployments in a dashboard 
     {{</ card >}}
     {{< card title="Organize users with RBAC" >}}
       Assign responsibilities with role-based access control 
     {{</ card >}}
-    {{< card title="Automate with the NGINX One API" >}}
-      Manage your NGINX fleet over REST 
+    {{< card title="Automate with NGINX One API" >}}
+      Manage NGINX fleet over REST 
     {{</ card >}}
     {{< card title="Glossary" >}}
       Learn terms unique to NGINX One Console 
